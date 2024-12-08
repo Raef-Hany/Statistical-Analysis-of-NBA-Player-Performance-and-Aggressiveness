@@ -80,7 +80,7 @@ nba-analysis/
     *   Generating confidence intervals for mean points, age variance, and other proportions.
     *   Conducting hypothesis tests to explore relationships between variables (e.g., age and aggressiveness).
 
-## Key Findings (Optional - Add if you want to highlight the main results)
+## Key Findings examples
 
 *   **Aggressive players tend to score more points.**
 *   **Older players generally start more games and are more aggressive than younger players.**
