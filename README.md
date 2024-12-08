@@ -17,9 +17,6 @@ The project utilizes the following datasets containing NBA player statistics:
 **Note:** If these datasets are publicly available, it would be helpful to add links to their original sources. If not, it is important to mention the origin, i.e., "These datasets were provided by \[Source] and are used for educational purposes."
 
 ## Project Structure
-content_copy
-
-Markdown
 
 nba-analysis/
 ├── dataset.csv
@@ -88,7 +85,6 @@ nba-analysis/
 *   **Aggressive players tend to score more points.**
 *   **Older players generally start more games and are more aggressive than younger players.**
 *   **Center players are more aggressive compared to players in other positions.**
-*   **(Add more findings as needed)**
 
 ## License
 
